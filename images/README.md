@@ -1,1 +1,1 @@
-This contains all the images needed for the demo
+This contains all the images needed for the demo.
